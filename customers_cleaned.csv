@@ -1,0 +1,8 @@
+customer_id,name,age,email,city,purchase_amount
+101,John Smith,25,john.smith@gmail.com,Agadir,250.5
+102,Marie Dupont,31,marie.dupont@gmail.com,Agadir,120.0
+103,Paul Martin,26,paul.martin@gmail.com,Casablanca,300.75
+104,Sarah Johnson,28,sarah.johnson@gmail.com,Casablanca,225.25
+105,,26,,Rabat,90.0
+106,Mohamed Ali,22,mohamed.ali@gmail.com,Rabat,450.0
+107,Emma Brown,26,emma.brown@gmail.com,Agadir,200.0
